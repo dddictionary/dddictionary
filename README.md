@@ -1,2 +1,1 @@
-CS Student.
-Currently doing data science + geospatial research.
+One day, I will update this. Reminding myself here...
